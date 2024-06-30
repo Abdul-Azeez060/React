@@ -1,0 +1,12 @@
+.info {
+  text-align: center;
+}
+
+p {
+  margin: 7px 0;
+}
+
+.cardContainer {
+  display: flex;
+  justify-content: center;
+}
